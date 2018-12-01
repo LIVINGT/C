@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/algrim.dir/main.cpp.o  -o algrim 

@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/dada.dir/main.cpp.o  -o dada 
